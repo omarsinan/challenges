@@ -1,2 +1,3 @@
-# challenges
-Random coding challenges
+# Challenges
+- [Flatten Array](code/flatten_array.py "Flatten Array")
+###### Omar Sinan
